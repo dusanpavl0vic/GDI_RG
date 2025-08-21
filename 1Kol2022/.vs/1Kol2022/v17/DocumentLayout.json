@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dusan\\Desktop\\1Kol2023\\1Kol2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F15980-FC2F-4298-9D6E-A6A7D51A7BE7}|1Kol2022\\1Kol2022.vcxproj|C:\\Users\\dusan\\Desktop\\1Kol2023\\1Kol2022\\1Kol2022\\1Kol2022View.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4F15980-FC2F-4298-9D6E-A6A7D51A7BE7}|1Kol2022\\1Kol2022.vcxproj|solutionrelative:1Kol2022\\1Kol2022View.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F15980-FC2F-4298-9D6E-A6A7D51A7BE7}|1Kol2022\\1Kol2022.vcxproj|C:\\Users\\dusan\\Desktop\\1Kol2023\\1Kol2022\\1Kol2022\\1Kol2022View.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4F15980-FC2F-4298-9D6E-A6A7D51A7BE7}|1Kol2022\\1Kol2022.vcxproj|solutionrelative:1Kol2022\\1Kol2022View.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1Kol2022View.h",
+              "DocumentMoniker": "C:\\Users\\dusan\\Desktop\\1Kol2023\\1Kol2022\\1Kol2022\\1Kol2022View.h",
+              "RelativeDocumentMoniker": "1Kol2022\\1Kol2022View.h",
+              "ToolTip": "C:\\Users\\dusan\\Desktop\\1Kol2023\\1Kol2022\\1Kol2022\\1Kol2022View.h",
+              "RelativeToolTip": "1Kol2022\\1Kol2022View.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T22:52:33.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1Kol2022View.cpp",
+              "DocumentMoniker": "C:\\Users\\dusan\\Desktop\\1Kol2023\\1Kol2022\\1Kol2022\\1Kol2022View.cpp",
+              "RelativeDocumentMoniker": "1Kol2022\\1Kol2022View.cpp",
+              "ToolTip": "C:\\Users\\dusan\\Desktop\\1Kol2023\\1Kol2022\\1Kol2022\\1Kol2022View.cpp",
+              "RelativeToolTip": "1Kol2022\\1Kol2022View.cpp",
+              "ViewState": "AQIAAGcBAAAAAAAAAAAAwIgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T22:52:31.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
